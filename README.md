@@ -1,9 +1,4 @@
 # LYNQ Social Media Platform
-
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
-![React](https://img.shields.io/badge/React-19.x-blue?logo=react)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 A full-stack social media platform built with **React**, **Node.js**, **Express**, and **MongoDB**. The app features a modern UI, real-time chat, analytics, notifications, and a rich Indian context in its seed data (users, posts, and celebrities).
 
 ---
